@@ -6,4 +6,5 @@ def array_with_two_elements
   ["jump" , "up"]
 end
 
-def 
+def first_element(array)
+  
